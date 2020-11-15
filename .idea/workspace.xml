@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db227510-ddec-46f8-a93d-22200bcc0311" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirement.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB命令.md" beforeDir="false" afterPath="$PROJECT_DIR$/DB命令.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_opration.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_opration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/connect_remote_db.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GiteeDefaultAccount">
+    <option name="defaultAccountId" value="98df692a-2aa5-471a-bd9c-05792a191380" />
+  </component>
+  <component name="JupyterTrust" id="f0ecbec0-4fb5-4e73-8ed8-fb4d589f4cee" />
+  <component name="ProjectId" id="1j3alQiD1Q3OWfnA1goDaFuQzbP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\pymongdb" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.re_data">
+    <configuration name="DB (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pymongdb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DB" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pymongdb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\pymongdb\DB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="connect_remote_db" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pymongdb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/connect_remote_db.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="re_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pymongdb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/re_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sand_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pymongdb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sand_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.re_data" />
+        <item itemvalue="Python.sand_data" />
+        <item itemvalue="Python.DB (1)" />
+        <item itemvalue="Python.DB" />
+        <item itemvalue="Python.connect_remote_db" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db227510-ddec-46f8-a93d-22200bcc0311" name="Default Changelist" comment="" />
+      <created>1603035379702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603035379702</updated>
+      <workItem from="1603035381322" duration="1236000" />
+      <workItem from="1603036773808" duration="264000" />
+      <workItem from="1603039042548" duration="600000" />
+      <workItem from="1603076322335" duration="2381000" />
+      <workItem from="1603078754183" duration="5986000" />
+      <workItem from="1603100312471" duration="766000" />
+      <workItem from="1603193401476" duration="1934000" />
+      <workItem from="1605018510810" duration="96000" />
+      <workItem from="1605343382070" duration="1283000" />
+      <workItem from="1605345555969" duration="10438000" />
+      <workItem from="1605363324912" duration="2769000" />
+      <workItem from="1605420653935" duration="4170000" />
+    </task>
+    <task id="LOCAL-00001" summary="add connect_remote_db">
+      <created>1603195289421</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603195289421</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add connect_remote_db" />
+    <option name="LAST_COMMIT_MESSAGE" value="add connect_remote_db" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="19" key="#Deployment" timestamp="1605370316228">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="19" key="#Deployment/0.0.1280.720@0.0.1280.720" timestamp="1605370316228" />
+    <state x="466" y="22" key="#Inspections" timestamp="1603036439885">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="466" y="22" key="#Inspections/0.0.1280.720@0.0.1280.720" timestamp="1603036439885" />
+    <state x="384" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605370857285">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="384" y="163" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720@0.0.1280.720" timestamp="1605370857285" />
+    <state x="292" y="0" key="CommitChangelistDialog2" timestamp="1605424830698">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="292" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1605424830698" />
+    <state x="279" y="117" key="FileChooserDialogImpl" timestamp="1605344666120">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="279" y="117" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1605344666120" />
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1605371151373">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1605371151373" />
+    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1605371151373">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1605371151373" />
+    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1605371151372">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1605371151372" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1605371151373">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1605371151373" />
+    <state width="1237" height="29" key="GridCell.Tab.1.bottom" timestamp="1605362619291">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="29" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1605362619291" />
+    <state width="1237" height="29" key="GridCell.Tab.1.center" timestamp="1605362619291">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="29" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1605362619291" />
+    <state width="1237" height="29" key="GridCell.Tab.1.left" timestamp="1605362619291">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="29" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1605362619291" />
+    <state width="1237" height="29" key="GridCell.Tab.1.right" timestamp="1605362619291">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="29" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1605362619291" />
+    <state x="0" y="5" key="SettingsEditor" timestamp="1603079434215">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="0" y="5" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1603079434215" />
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1605424854794">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1605424854794" />
+    <state x="498" y="259" key="WebDeployment.AddServerDialog.v.1" timestamp="1605370296001">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="498" y="259" key="WebDeployment.AddServerDialog.v.1/0.0.1280.720@0.0.1280.720" timestamp="1605370296001" />
+    <state x="643" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1605363325708">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="643" y="184" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1605363325708" />
+    <state x="207" y="37" width="672" height="678" key="search.everywhere.popup" timestamp="1605424196008">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="207" y="37" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1605424196008" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pymongdb$first.coverage" NAME="first Coverage Results" MODIFIED="1603097056956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pymongdb$adFilter.coverage" NAME="adFilter Coverage Results" MODIFIED="1605353889595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pymongdb$connect_remote_db.coverage" NAME="connect_remote_db Coverage Results" MODIFIED="1603195050376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pymongdb$DB__1_.coverage" NAME="DB (1) Coverage Results" MODIFIED="1605363390712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pymongdb$sand_data.coverage" NAME="sand_data Coverage Results" MODIFIED="1605363536554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pymongdb$re_data.coverage" NAME="re_data Coverage Results" MODIFIED="1605363606739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
